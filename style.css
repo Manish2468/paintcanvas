@@ -1,0 +1,18 @@
+.bodybackground
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUdCGnVeHDRwA6HPG_2bcOSYrr3aHWx3pMA&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+}
+
+h1
+{
+    color: crimson;
+}
+
+#my_canvas
+{
+    border-width: 20;
+    background-color: floralwhite;
+    border-style: groove;
+}
